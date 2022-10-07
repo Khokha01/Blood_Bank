@@ -1,7 +1,7 @@
 # HOPE Application
 Project overview   
 
-We are building a system for HOPE mobile application at which we provide service to ease and fasten the operation of blood donation and it’s delivered to the patient who needs it. The goal of it is to connect between blood banks,donators, sponsors, hospitals, and patients.    
+We are building a system for HOPE mobile application at which we provide service to ease and fasten the operation of blood donation and it’s delivered to the patient who needs it. The goal is to connect between blood banks,donators, sponsors, hospitals, and patients.    
 -When the system receives an order from a hospital or patient for a blood bag, 
 it searches for the needed order in the nearest location to this hospital or 
 patient.  
