@@ -28,7 +28,8 @@ application gives him points which give benefits at our sponsors.
 - Our sponsor sends us an advertisement request to which we reply with 
 acceptance or refusal.  
 
-Problem Statement
+Problem Statement  
+
 “Donation importance unawareness, patients suffering from lack of blood bags 
 they need.”  
 
