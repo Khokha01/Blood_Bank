@@ -31,4 +31,31 @@ Project Objectives
 
 • Donation awareness💡  
 • Fasten the Cycle 🏃  
-• Ease the operation👌
+• Ease the operation👌 
+
+Stakeholders:  
+1)Hospitals 
+2)Blood Banks 
+3)Users(Patients,Donators)  
+
+Paths:
+Hospitals/ BloodBanks(Registeration, Edit products, Request for needed product, Accept donations, Send needed prodcts for users) 
+Users(Registeration , Request for needed product, donate)
+
+
+![image](https://user-images.githubusercontent.com/89224101/195981555-1e881ee0-09c0-4e70-a3ea-130538da3914.png)
+![image](https://user-images.githubusercontent.com/89224101/195981592-9d805215-a84a-4b31-ad8e-a53e4fcc700f.png)
+![image](https://user-images.githubusercontent.com/89224101/195981608-6cb27846-7101-4a1d-86a8-41466a718fab.png)
+![image](https://user-images.githubusercontent.com/89224101/195981632-668cd314-954a-4267-859b-9fc73d3d7e29.png)
+
+Survey:
+![image](https://user-images.githubusercontent.com/89224101/195981704-260b7c81-1547-499c-aac4-8395e7582b68.png)
+![image](https://user-images.githubusercontent.com/89224101/195981729-0790d290-9c2f-44ce-92d4-cc4181697a21.png)
+![image](https://user-images.githubusercontent.com/89224101/195981753-f61125a9-d416-43ab-af0a-de46e074152d.png)
+![image](https://user-images.githubusercontent.com/89224101/195981775-7d53bcc0-b213-46e5-8c64-b1443d817f05.png)
+
+
+
+
+
+
