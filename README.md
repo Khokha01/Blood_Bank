@@ -53,6 +53,12 @@ Survey:
 ![image](https://user-images.githubusercontent.com/89224101/195981729-0790d290-9c2f-44ce-92d4-cc4181697a21.png)
 ![image](https://user-images.githubusercontent.com/89224101/195981753-f61125a9-d416-43ab-af0a-de46e074152d.png)
 ![image](https://user-images.githubusercontent.com/89224101/195981775-7d53bcc0-b213-46e5-8c64-b1443d817f05.png)
+Applicattion Screens 
+![s1](https://user-images.githubusercontent.com/89224101/198371345-80357282-e502-41a8-b5b7-40ae2447d6e5.png)
+![s2](https://user-images.githubusercontent.com/89224101/198371358-eca32eb7-3d72-487e-9f36-6c09ec5d564e.png)
+![s3](https://user-images.githubusercontent.com/89224101/198371381-5a0ddca8-2507-4a5f-af23-a44a6b6c3e28.png)
+![s4](https://user-images.githubusercontent.com/89224101/198371400-fa5424bb-c7ea-409a-8e62-a6fb4e9ba8e8.png)
+![s5](https://user-images.githubusercontent.com/89224101/198371411-8a4a6d51-4750-43f8-af91-c925c5d23d51.png)
 
 
 
